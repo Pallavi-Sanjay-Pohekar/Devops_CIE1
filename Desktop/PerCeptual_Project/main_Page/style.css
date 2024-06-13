@@ -1,0 +1,955 @@
+.logo {
+    height: 60px;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    /* color: #000; */
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.badge-warning {
+    background-color: #ffa500;
+    color: #fff;
+}
+
+.profile-picture {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.java-span1 {
+    text-align: left;
+    font-family: "Epilogue-ExtraBold", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+}
+
+.achieve {
+    color: #fff;
+    font-family: "Epilogue-ExtraBold", sans-serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    padding: 20px 10px 10px 5px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 66px;
+    top: 94px;
+}
+
+.java-span3 {
+    color: #fff;
+    font-family: "Epilogue-ExtraBold", sans-serif;
+    font-size: 3em;
+    font-weight: 800;
+    padding: 50px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 64px;
+    top: 94px;
+}
+
+.frame-881 {
+    padding: 60px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 74px;
+    top: 217px;
+}
+
+.get-55-10-off-on-all-online-trainings {
+    color: #ffffff;
+    text-align: left;
+    font-family: "-", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    position: relative;
+}
+
+.get-55-10-off-on-all-online-trainings-span2 {
+    color: #ffffff;
+    font-family: "Epilogue-ExtraBold", sans-serif;
+    font-size: 1em;
+    font-weight: 800;
+}
+
+.get-55-10-off-on-all-online-trainings-span3 {
+    color: #ffffff;
+    font-family: "Epilogue-Medium", sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.frame-887 {
+    width: 244px;
+    height: 44px;
+    position: absolute;
+    left: 0;
+    top: 90px;
+}
+
+.vector-8 {
+    border-radius: 0px;
+    width: 244px;
+    height: 44px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.frame-886 {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 3px;
+    top: calc(50% - 18px);
+}
+
+.stop-watch {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+._1-d-13-h-12-m-05-s {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Medium", sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    position: relative;
+}
+
+.top-2 {
+    background: #ffffff;
+    width: 1440px;
+    height: 1021px;
+    position: absolute;
+    left: -100px;
+    top: 170px;
+    box-shadow: 0px 17px 35.5px 0px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.fastest-way-cv-build {
+    flex-direction: column;
+    gap: 44px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 63px;
+    top: 44px;
+}
+
+.frame-968 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-890 {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+._4-8-weeks {
+    color: #202382;
+    text-align: left;
+    font-family: "Epilogue-Light", sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    position: relative;
+}
+
+.frame-891 {
+    border-style: solid;
+    border-color: #0033e6;
+    border-width: 0px 0px 0px 10px;
+    padding: 20px 10px 20px 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.swift-approach-to-creating-your-cv {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Bold", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+}
+
+.frame-895 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.tick-024 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+.learn-at-your-own-schedule {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.tick-025 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+.practical-learning {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.tick-026 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+.government-certified-online-training {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-972 {
+    display: flex;
+    flex-direction: row;
+    gap: 17px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-969 {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-896 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.categories {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-SemiBold", sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    position: relative;
+}
+
+.frame-897 {
+    background: #ffffff;
+    border-radius: 15px;
+    flex-shrink: 0;
+    width: 333px;
+    height: 632px;
+    position: relative;
+    box-shadow: 0px 0px 2.2px 0px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.frame-898 {
+    border-style: solid;
+    border-color: #0033e6;
+    border-width: 0px 0px 0px 10px;
+    padding: 20px 10px 20px 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: calc(50% - 160.5px);
+    top: 26px;
+}
+
+.recommended-for-adarsh {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Medium", sans-serif;
+    font-size: 21px;
+    font-weight: 500;
+    position: relative;
+}
+
+.arrow-down-019 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    transform: translate(0px, -16px);
+    overflow: visible;
+}
+
+.frame-908 {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 222px;
+    top: 573px;
+}
+
+.more {
+    color: #0033e6;
+    text-align: left;
+    font-family: "Epilogue-Medium", sans-serif;
+    font-size: 21px;
+    font-weight: 500;
+    position: relative;
+}
+
+.arrow-down-0110 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    transform: translate(0px, -16px);
+    overflow: visible;
+}
+
+.frame-899 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 110px;
+}
+
+.programming {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-900 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 161px;
+}
+
+.ui-ux-design {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-901 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 212px;
+}
+
+.core-engineering {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-902 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 263px;
+}
+
+.data-science2 {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-903 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 314px;
+}
+
+.design {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-904 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 365px;
+}
+
+.artificial-intelligence {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-905 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 416px;
+}
+
+.java2 {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-906 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 467px;
+}
+
+.python2 {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-907 {
+    padding: 10px 10px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 6px;
+    top: 518px;
+}
+
+.online-courses {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-971 {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-8982 {
+    padding: 20px 10px 20px 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.recommended-for-adarsh2 {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-Bold", sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    position: relative;
+}
+
+.frame-970 {
+    display: flex;
+    flex-direction: row;
+    gap: 28px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+    width: 959px;
+    position: relative;
+}
+
+.frame-909 {
+    background: #ffffff;
+    border-radius: 15px;
+    flex-shrink: 0;
+    width: 301px;
+    height: 308px;
+    position: relative;
+    box-shadow: 0px 8px 8.9px 0px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+
+.rectangle-73 {
+    width: 301px;
+    height: 132px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    object-fit: cover;
+}
+
+.frame-9173 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 9px;
+    top: 148px;
+}
+
+.frame-912 {
+    padding: 5px 10px 5px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+._6-weeks {
+    color: #626262;
+    text-align: left;
+    font-family: "Epilogue-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-9132 {
+    margin: -5px 0 0 0;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-9142 {
+    margin: -5px 0 0 0;
+    padding: 5px 10px 5px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.frame-9162 {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.star-1 {
+    border-radius: 0px;
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+._4-8 {
+    color: #626262;
+    text-align: left;
+    font-family: "Epilogue-Medium", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    position: relative;
+}
+
+.vector-9 {
+    flex-shrink: 0;
+    width: 0px;
+    height: 22px;
+    position: relative;
+    transform: translate(-0.16px, 0px);
+    overflow: visible;
+}
+
+.frame-9152 {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+}
+
+._3-776 {
+    color: #626262;
+    text-align: left;
+    font-family: "Epilogue-Medium", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    position: relative;
+}
+
+.frame-9182 {
+    background: #557aff;
+    width: 301px;
+    height: 41px;
+    position: absolute;
+    left: 0px;
+    top: 267px;
+    overflow: hidden;
+}
+
+.frame-9192 {
+    padding: 5px 10px 5px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+
+.arrow-down-0111 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    transform: translate(0px, -16px);
+    overflow: visible;
+}
+
+.frame-910 {
+    background: #ffffff;
+    border-radius: 15px;
+    flex-shrink: 0;
+    width: 301px;
+    height: 308px;
+    position: relative;
+    box-shadow: 0px 8px 8.9px 0px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+
+.rectangle-74 {
+    width: 301px;
+    height: 132px;
+    position: absolute;
+    left: calc(50% - 150.5px);
+    top: 0px;
+    object-fit: cover;
+}
+
+.star-12 {
+    border-radius: 0px;
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+.vector-92 {
+    flex-shrink: 0;
+    width: 0px;
+    height: 22px;
+    position: relative;
+    transform: translate(-0.17px, 0px);
+    overflow: visible;
+}
+
+.arrow-down-0112 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    transform: translate(0px, -16px);
+    overflow: visible;
+}
+
+.frame-911 {
+    background: #ffffff;
+    border-radius: 15px;
+    flex-shrink: 0;
+    width: 301px;
+    height: 308px;
+    position: relative;
+    box-shadow: 0px 8px 8.9px 0px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+
+.star-13 {
+    border-radius: 0px;
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+.vector-93 {
+    flex-shrink: 0;
+    width: 0px;
+    height: 22px;
+    position: relative;
+    transform: translate(-0.17px, 0px);
+    overflow: visible;
+}
+
+.arrow-down-0113 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    transform: translate(0px, -16px);
+    overflow: visible;
+}
+
+.frame-9122 {
+    background: #ffffff;
+    border-radius: 15px;
+    flex-shrink: 0;
+    width: 301px;
+    height: 308px;
+    position: relative;
+    box-shadow: 0px 8px 8.9px 0px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+
+.star-14 {
+    border-radius: 0px;
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+.vector-94 {
+    flex-shrink: 0;
+    width: 0px;
+    height: 22px;
+    position: relative;
+    transform: translate(-0.16px, 0px);
+    overflow: visible;
+}
+
+.arrow-down-0114 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    transform: translate(0px, -16px);
+    overflow: visible;
+}
+
+.frame-9133 {
+    background: #ffffff;
+    border-radius: 15px;
+    flex-shrink: 0;
+    width: 301px;
+    height: 308px;
+    position: relative;
+    box-shadow: 0px 8px 8.9px 0px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+
+.sapco {
+    color: #121212;
+    text-align: left;
+    font-family: "Epilogue-SemiBold", sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    position: relative;
+}
+
+.star-15 {
+    border-radius: 0px;
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    overflow: visible;
+}
+
+.vector-95 {
+    flex-shrink: 0;
+    width: 0px;
+    height: 22px;
+    position: relative;
+    transform: translate(-0.17px, 0px);
+    overflow: visible;
+}
+
+.arrow-down-0115 {
+    flex-shrink: 0;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    transform: translate(0px, -16px);
+    overflow: visible;
+}
